@@ -1,18 +1,18 @@
-Clumsy Bird
+Flappy Bird 2025 🐦
 ===========
 
-A MelonJS made "Flappy Bird" clone.
+Được Vận Hành Và Phát Triển Bởi Coder Ng Quang Huy.
 
 ![](http://i.imgur.com/Slbvt65.png)
 
-Play online at http://ellisonleao.github.io/clumsy-bird/
+Chơi Trực Tuyến Tại http://ellisonleao.github.io/clumsy-bird/
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ellisonleao/clumsy-bird/tree/gh-pages)
 
-## Running Locally
+## Cách Chơi
 
-- Install [Node](http://nodejs.org/download/) and [Grunt](http://gruntjs.com/)
-- Install the dependencies
+- Tải [Node](http://nodejs.org/download/) và [Grunt](http://gruntjs.com/)
+- Choi vui ve 💕
 
 ```
 npm install
@@ -26,11 +26,11 @@ grunt connect
 
 Open your browser at `http://localhost:8001/`
 
-## Making your customization
+## Tao Game O Day
 
 See [CUSTOMIZING](https://github.com/ellisonleao/clumsy-bird/blob/master/CUSTOMIZING.md)
 
-## Some nice games made with this project
+## Nhieu Game Hay
 
 [Checkout here](https://github.com/ellisonleao/clumsy-bird/wiki/Games-using-clumsy-bird-code)
 
