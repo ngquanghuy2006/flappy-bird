@@ -3,11 +3,11 @@
 Developer: Ellison Leão 
 Site: https://ellisonleao.github.io, https://github.com/ellisonleao
 Twitter: @ellisonleao
-Location: Curitiba, Brazil
+Location: Ha Noi Viet Nam
 
 /* SITE */
 
-Last Update: 2014/03/06
+Last Update: 2025/04/11
 Standards: HTML5, CSS3
-Components: MelonJS, jQuery
+Components: Ng Quang Huy, Dzi
 Software: VIM, Photoshop
